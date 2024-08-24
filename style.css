@@ -1,0 +1,67 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.back{
+  background-color: white;
+}
+
+.back2{
+  background-color: white;
+}
+
+#col{
+  color: white;
+  text-align: left;
+}
+
+#color2{
+  background-color: blue;
+}
+
+.color4{
+   background-color: skyblue;
+}
+
+#color3{
+  background-color: lightblue;
+}
+
+.mobile{
+  background-color: lightgreen;
+}
+
+.mtn{
+  background-color: yellow;
+}
+
+.Airtel{
+  background-color: red;
+}
+
+.Glo{
+  background-color: darkgreen;
+}
+
+body{
+  background-color: lightblue;
+}
+
+
+
+*{
+  text-align: center;
+  font-size: 26px;
+  font-weight: bolder;
+}
+
+#nav{
+  position: fixed;
+  background-color: black;
+  color: white;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 10;
+}
